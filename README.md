@@ -1,7 +1,12 @@
 Idiotbox with New Module Features
 
-CURRENT NEW FEATURES(
+CURRENT NEW FEATURES
+(
 
-None.
+Actual Fake Angles
+Show Angles
+Fakelag Fix
+Freestanding
+Lag Exploit(Desynculator)
 
 )
